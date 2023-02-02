@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">4DLViewer</string>
+    <string name="image_description">Описание</string>
+    <string name="next_button">Следующий</string>
+    <string name="prev_button">Предыдущий</string>
+    <string name="retry_button">Повторить</string>
+    <string name="tab_latest">Последние</string>
+    <string name="tab_top">Лучшие</string>
+    <string name="tab_hot">Горячие</string>
+    <string name="feed_empty">Список постов пуст!</string>
+    <string name="network_error">Ошибка при загрузке данных. Проверьте подключение</string>
+</resources>
